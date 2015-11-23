@@ -6,7 +6,7 @@
 title: varman
 subtitle:
 description:
-author: John Doe
+author: varman
 language:
 timezone:
 
@@ -68,4 +68,5 @@ theme: TKL
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type:git
+  repository:https://github.com/F2EVarMan/F2EVarMan.github.io.git
